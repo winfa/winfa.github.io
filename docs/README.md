@@ -1,9 +1,11 @@
+---toml
+title = "Blogging Like a Hacker"
+lang = "en-US"
+---
+
 # Hello world
 
----
-title: Blogging Like a Hacker
-lang: en-US
----
+
 
 
 | Tables        |      Are      |  Cool |
@@ -45,3 +47,5 @@ export default {
 <span v-for="i in 3">{{ i }} </span>
 
 {{ $page }}
+
+
